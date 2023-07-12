@@ -1,6 +1,6 @@
 <p align="center">
 <br>
-Bit.Ly Shortlink Maker In Termux
+## Bit.Ly Shortlink Maker In Termux
 </br>
 </p>
 
@@ -8,7 +8,7 @@ Bit.Ly Shortlink Maker In Termux
 ```bash
 > pkg update &&  pkg upgrade -y
 > pkg install git
->pkg install nodejs
+> pkg install nodejs
 > git clone https://github.com/AkagamiNoAkbar/Shortlink-Maker
 > cd Shortlink-Maker
 > node index.js
